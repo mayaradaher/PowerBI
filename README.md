@@ -2,6 +2,7 @@
 
 <p> Are you happy? </p>
 World Happiness Report is a landmark survey of the state of global happiness.
+
 ![world-happiness](https://user-images.githubusercontent.com/62572101/201765844-5acaa5fc-1deb-4802-86a2-d194a84fbe5c.gif)
 
 
